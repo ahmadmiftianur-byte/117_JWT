@@ -6,7 +6,8 @@ login:
 
 
 post:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5627a414-4ff0-4fdf-aa36-b5b803fcdcc5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9970bc38-c6ca-47ff-9c4e-b149c08b01bf" />
+
 
 get All:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcf318a1-a055-4548-8bc7-772dd0b06b21" />
