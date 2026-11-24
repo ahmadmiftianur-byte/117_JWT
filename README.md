@@ -1,4 +1,8 @@
+register:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/493793ae-7e92-480b-8629-1ace8932d146" />
 
+login:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3c556ae-0b3f-47c0-a6d0-9ce6571a5c1c" />
 
 
 post:
