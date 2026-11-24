@@ -22,4 +22,4 @@ delete:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41d44825-bd32-4b03-9171-e6be841462ac" />
 
 
-
+Ringkasan EndpointMethodEndpointAksesFungsiPOST/api/registerPublicMendaftarkan akun pengguna baru   POST/api/loginPublicMasuk akun dan memperoleh token JWT   GET/api/komikPublicMenampilkan seluruh data komik   GET/api/komik/:idPublicMenampilkan detail komik berdasarkan id   POST/api/komikBearer TokenMenambahkan data komik baru   PUT/api/komik/:idBearer TokenMemperbarui data komik berdasarkan id   DELETE/api/komik/:idBearer TokenMenghapus data komik berdasarkan id   
